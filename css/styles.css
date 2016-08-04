@@ -1,16 +1,8 @@
-#score {
+.scores {
   font-size: 50px;
   margin: auto;
   width: 500px;
   text-align: center;
-}
-
-#totalscore {
-  font-size: 50px;
-  margin: auto;
-  width: 500px;
-  text-align: center;
-  color: red;
 }
 
 #buttons {
