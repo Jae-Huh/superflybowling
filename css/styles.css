@@ -1,5 +1,16 @@
-#score {
+.scores {
   font-size: 50px;
   margin: auto;
   width: 500px;
+  text-align: center;
+}
+
+#buttons {
+  text-align: center;
+}
+
+#bowl {
+  height: 50px;
+  width: 150px;
+  font-size: 20px;
 }
