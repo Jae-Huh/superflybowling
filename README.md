@@ -1,2 +1,3 @@
 # superflybowling
-Interactive bowling game
+
+An interactive bowling game created by Jae Huh
