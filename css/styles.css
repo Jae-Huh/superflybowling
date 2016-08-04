@@ -5,6 +5,13 @@
   text-align: center;
 }
 
+.scoreboard {
+  font-size: 30px;
+  margin: auto;
+  width: 100%;
+  text-align: center;
+}
+
 #buttons {
   text-align: center;
 }
